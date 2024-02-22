@@ -1,6 +1,7 @@
 #import needed packages and libraries
 !pip install -q efficientnet
 !export TF_ENABLE_AUTO_MIXED_PRECISION=1
+
 import numpy as np
 import pandas as pd 
 import os
